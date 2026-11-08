@@ -1,4 +1,4 @@
-app.pyimport os, sys
+import os, sys
 import pandas as pd, matplotlib.pyplot as plt, seaborn as sns, streamlit as st
 from sklearn.metrics import confusion_matrix, classification_report
 
